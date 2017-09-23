@@ -3,7 +3,7 @@
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://start.cortanaintelligence.com/Deployments/new/datasciencevm)
 
-> **STOP before you proceed**  You need to accept the Terms of Use of the Data Science Virtual Machine (DSVM) - Windows 2016 on your Azure Subscription before you deploy this VM the first time by clicking [here]({Constants.WindowsDsVmTermOfUseUrl}). 
+> **STOP before you proceed**  You need to accept the Terms of Use of the Data Science Virtual Machine (DSVM) - Windows 2016 on your Azure Subscription before you deploy this VM the first time by clicking [here](https://portal.azure.com/#blade/Microsoft_Azure_Marketplace/LegalTermsSkuProgrammaticAccessBlade/legalTermsSkuProgrammaticAccessData/%7B%22product%22%3A%7B%22publisherId%22%3A%22microsoft-ads%22%2C%22offerId%22%3A%22windows-data-science-vm%22%2C%22planId%22%3A%22windows2016%22%7D%7D). 
 
 The 'Data Science Virtual Machine (DSVM)' is a 'Windows Server 2016 with Containers' VM & includes popular tools for data exploration, analysis, modeling & development.
 
